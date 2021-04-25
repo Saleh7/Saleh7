@@ -73,6 +73,7 @@
 ![Symfony](https://img.shields.io/badge/Symfony-111111?style=for-the-badge&logo=Symfony&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)
+![nuxt.js](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=Wordpress&logoColor=white)
@@ -82,7 +83,7 @@
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-2abfb3?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-![nuxt.js](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
+
 
 -----
 ### 🗄️ Other things that I like to work with.
